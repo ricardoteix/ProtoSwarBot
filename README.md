@@ -6,7 +6,7 @@ Este repositório contém os arquivos fonte produzidos durante o desenvolvimento
 
 ## ProtoSwarBot: Uma Plataforma Robótica de Código Aberto para Experimentos de Enxames de Robôs ##
 
-Dissertação de Mestrado
+#### Dissertação de Mestrado ####
 
 Dissertação apresentada ao Programa de Pós-Graduação em ENGENHARIA DE SISTEMAS da Universidade de Pernambuco como requisito parcial para obtenção do título de Mestre em Engenharia de Sistemas. 
 
