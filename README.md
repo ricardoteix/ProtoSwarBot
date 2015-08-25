@@ -1,7 +1,6 @@
 # ProtoSwarBot
-ProtoSwarBot
 
-Este repositório contém os arquivos fonte produzidos durante o desenvolvimento do mestrao em Engenharia de Sistemas pela Escola Politécnica de Pernambuco, Universidade de Pernambuco.
+Este repositório contém os arquivos fonte produzidos durante o desenvolvimento do mestrado em Engenharia de Sistemas pela Escola Politécnica de Pernambuco, Universidade de Pernambuco.
 
 Ricardo Teixeira da Silva
 
