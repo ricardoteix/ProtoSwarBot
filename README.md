@@ -2,7 +2,7 @@
 
 Este repositório contém os arquivos fonte produzidos durante o desenvolvimento do mestrado em Engenharia de Sistemas pela Escola Politécnica de Pernambuco, Universidade de Pernambuco.
 
-### Ricardo Teixeira da Silva ###
+#### Ricardo Teixeira da Silva ####
 
 ## ProtoSwarBot: Uma Plataforma Robótica de Código Aberto para Experimentos de Enxames de Robôs ##
 
